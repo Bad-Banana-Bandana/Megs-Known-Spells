@@ -1,0 +1,3 @@
+title=Megs-Known-Spells
+author=Meg
+orientation=portrait
